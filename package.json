@@ -1,0 +1,24 @@
+{
+  "name": "learndatastructures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:debug": "node --inspect node_modules/.bin/jest --watch --runInBand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishtayal89/learndatastructures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishtayal89/learndatastructures/issues"
+  },
+  "homepage": "https://github.com/ashishtayal89/learndatastructures#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
