@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/ashishtayal89/learndatastructures#readme",
   "devDependencies": {
+    "ds-in-js": "^1.0.2",
     "jest": "^25.1.0"
   }
 }
